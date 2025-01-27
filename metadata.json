@@ -1,0 +1,12 @@
+{
+    "name": "Minecraft",
+    "symbol": "MCRF",
+    "description": "Only Possible On Solana",
+    "image": "https://github.com/Minecraftcoin-web/MCRF/blob/main/logobig.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
